@@ -1,1 +1,1 @@
-# PHY473_Computational_Physicss
+# PHY473_Computational_Physics
