@@ -6,4 +6,6 @@ me an email. My email address is hazra@iitk.ac.in. Happy learning.
 
 Go to the folder "Computational_physics_PHY617_Gopal_Hazra_IITKanpur" to find 12 assignments encompassing all the 
 topics in computational physics, starting from basic Python, root findings, interpolation, integration, differentiation,
-ODE, second-order ODE, matrix algebra, and basic PDEs. Solutions of all assignments are given in the Jupyter notebook format.  
+ODE, second-order ODE, matrix algebra, and basic PDEs. Solutions of all assignments are given in the Jupyter notebook format. 
+
+Note: In case the PDF copy of the assignments shows a rendering error, just download them.
